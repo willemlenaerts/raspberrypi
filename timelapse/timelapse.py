@@ -5,6 +5,10 @@
 
 from sys import exit
 import logging
+import os
+
+os.chdir("/home/pi/Documenten/raspberrypi/timelapse")
+
 logging.basicConfig(
     filename='timelapse.log',
     filemode='a',
@@ -12,6 +16,10 @@ logging.basicConfig(
     format='%(asctime)s %(levelname)s - %(message)s',
     datefmt='%Y-%m-%d %H:%M:%S',
 )
+
+# # Kill processes on ports 8080 and 8090, needed for Google Authentication
+#os.system("fuser -k 8080/tcp")
+#os.system("fuser -k 8090/tcp")
 
 # 1) Check time and see if sun still up
 from astral import LocationInfo
@@ -28,9 +36,9 @@ sunrise = s["sunrise"].astimezone(local)
 sunset = s["sunset"].astimezone(local)
 dusk = s["dusk"].astimezone(local)
 
-# if current_time < dawn or current_time > dusk:
-#     logging.critical('No sunlight, no picture')
-#     exit(0)
+if current_time < sunrise or current_time > sunset:
+    logging.critical('No sunlight, no picture')
+    exit(0)
 
 # 2) Take picture
 from picamera import PiCamera
@@ -42,6 +50,8 @@ try:
     camera.start_preview()
     sleep(2)
     camera.capture('test.jpg')
+    camera.close()
+    # logging.critical("Picture taken")
 except:
     logging.error("Can't take picture")
     exit(0)
