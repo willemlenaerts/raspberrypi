@@ -2788,3 +2788,52 @@ Your browser has been opened to visit:
     https://accounts.google.com/o/oauth2/auth?client_id=402438830439-qgf0s5rkl6r37h7ov6qkous93qv0905m.apps.googleusercontent.com&redirect_uri=http%3A%2F%2Flocalhost%3A8080%2F&scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fdrive&access_type=offline&response_type=code
 
 Authentication successful.
+Capturing image
+Camera file path: //capt0000.jpg
+Copying image to /home/pi/Documents/raspberrypi/timelapse/test.jpg
+Your browser has been opened to visit:
+
+    https://accounts.google.com/o/oauth2/auth?client_id=402438830439-qgf0s5rkl6r37h7ov6qkous93qv0905m.apps.googleusercontent.com&redirect_uri=http%3A%2F%2Flocalhost%3A8080%2F&scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fdrive&access_type=offline&response_type=code
+
+Authentication successful.
+Capturing image
+Camera file path: //capt0000.jpg
+Copying image to /home/pi/Documents/raspberrypi/timelapse/test.jpg
+Your browser has been opened to visit:
+
+    https://accounts.google.com/o/oauth2/auth?client_id=402438830439-qgf0s5rkl6r37h7ov6qkous93qv0905m.apps.googleusercontent.com&redirect_uri=http%3A%2F%2Flocalhost%3A8080%2F&scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fdrive&access_type=offline&response_type=code
+
+Authentication successful.
+Capturing image
+Camera file path: //capt0000.jpg
+Copying image to /home/pi/Documents/raspberrypi/timelapse/test.jpg
+Your browser has been opened to visit:
+
+    https://accounts.google.com/o/oauth2/auth?client_id=402438830439-qgf0s5rkl6r37h7ov6qkous93qv0905m.apps.googleusercontent.com&redirect_uri=http%3A%2F%2Flocalhost%3A8080%2F&scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fdrive&access_type=offline&response_type=code
+
+Authentication successful.
+Capturing image
+Camera file path: //capt0000.jpg
+Copying image to /home/pi/Documents/raspberrypi/timelapse/test.jpg
+Your browser has been opened to visit:
+
+    https://accounts.google.com/o/oauth2/auth?client_id=402438830439-qgf0s5rkl6r37h7ov6qkous93qv0905m.apps.googleusercontent.com&redirect_uri=http%3A%2F%2Flocalhost%3A8080%2F&scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fdrive&access_type=offline&response_type=code
+
+Capturing image
+Camera file path: //capt0000.jpg
+Copying image to /home/pi/Documents/raspberrypi/timelapse/test.jpg
+Your browser has been opened to visit:
+
+    https://accounts.google.com/o/oauth2/auth?client_id=402438830439-qgf0s5rkl6r37h7ov6qkous93qv0905m.apps.googleusercontent.com&redirect_uri=http%3A%2F%2Flocalhost%3A8080%2F&scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fdrive&access_type=offline&response_type=code
+
+Authentication successful.
+8090/tcp:             2006
+Killed
+Capturing image
+Camera file path: //capt0000.jpg
+Copying image to /home/pi/Documents/raspberrypi/timelapse/test.jpg
+Your browser has been opened to visit:
+
+    https://accounts.google.com/o/oauth2/auth?client_id=402438830439-qgf0s5rkl6r37h7ov6qkous93qv0905m.apps.googleusercontent.com&redirect_uri=http%3A%2F%2Flocalhost%3A8080%2F&scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fdrive&access_type=offline&response_type=code
+
+Authentication successful.

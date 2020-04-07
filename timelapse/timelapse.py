@@ -60,6 +60,8 @@ except:
     logging.error("Can't take picture")
     exit(0)
 
+
+
 # 3) Write to Google Drive
 from pydrive.auth import GoogleAuth
 from pydrive.drive import GoogleDrive
@@ -76,13 +78,13 @@ try:
 except:
     logging.error("Can't initialize Google Drive object")
     exit(0)    
-
-# Code to get list of all folders:
+# 
+# # Code to get list of all folders:
 # file_list = drive.ListFile({'q': 'trashed=false', 'maxResults': 10}).GetList()
 # for file1 in file_list:
-#   print('title: %s, id: %s' % (file1['title'], file1['id']))
+#     print('title: %s, id: %s' % (file1['title'], file1['id']))
 
-image_to_upload = drive.CreateFile({'parents': [{'kind': 'drive#fileLink','id': '1K1-DGt0d_EinoMFhr27e1FuKEegM_eQz'}],'title':current_time.strftime("%d-%m-%Y--%H:%M:%S") + '.jpg','mimeType':'image/jpeg'})
+image_to_upload = drive.CreateFile({'parents': [{'kind': 'drive#fileLink','id': '1JxyeeJBjGng7i0FsdxedX0-TFZH7erwp'}],'title':current_time.strftime("%d-%m-%Y--%H:%M:%S") + '.jpg','mimeType':'image/jpeg'})
 image_to_upload.SetContentFile('test.jpg')
 
 try:
