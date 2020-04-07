@@ -2606,3 +2606,185 @@ Your browser has been opened to visit:
     https://accounts.google.com/o/oauth2/auth?client_id=402438830439-qgf0s5rkl6r37h7ov6qkous93qv0905m.apps.googleusercontent.com&redirect_uri=http%3A%2F%2Flocalhost%3A8080%2F&scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fdrive&access_type=offline&response_type=code
 
 Authentication successful.
+/usr/bin/python3: can't open file '/home/pi/Documenten/raspberrypi/timelapse/timelapse.py': [Errno 2] No such file or directory
+/usr/bin/python3: can't open file '/home/pi/Documenten/raspberrypi/timelapse/timelapse.py': [Errno 2] No such file or directory
+/usr/bin/python3: can't open file '/home/pi/Documenten/raspberrypi/timelapse/timelapse.py': [Errno 2] No such file or directory
+/usr/bin/python3: can't open file '/home/pi/Documenten/raspberrypi/timelapse/timelapse.py': [Errno 2] No such file or directory
+/usr/bin/python3: can't open file '/home/pi/Documenten/raspberrypi/timelapse/timelapse.py': [Errno 2] No such file or directory
+/usr/bin/python3: can't open file '/home/pi/Documenten/raspberrypi/timelapse/timelapse.py': [Errno 2] No such file or directory
+/usr/bin/python3: can't open file '/home/pi/Documenten/raspberrypi/timelapse/timelapse.py': [Errno 2] No such file or directory
+/usr/bin/python3: can't open file '/home/pi/Documenten/raspberrypi/timelapse/timelapse.py': [Errno 2] No such file or directory
+8080/tcp:             1068
+Killed
+8080/tcp:             1326
+Killed
+8080/tcp:             1744
+Killed
+8080/tcp:             2229
+Killed
+8080/tcp:             2662
+Killed
+8080/tcp:             3101
+Killed
+8080/tcp:             3536
+Killed
+8080/tcp:             3967
+Killed
+8080/tcp:             4406
+Killed
+8080/tcp:             4840
+Killed
+8080/tcp:             5284
+Killed
+8080/tcp:             5723
+Killed
+8080/tcp:             6135
+8090/tcp:             6167
+Killed
+8080/tcp:             6491
+Killed
+8080/tcp:             6933
+Killed
+8080/tcp:             7364
+Killed
+8080/tcp:             7799
+Killed
+8080/tcp:             8229
+Killed
+Cannot stat file /proc/8289/fd/50: Permission denied
+Cannot stat file /proc/8289/fd/51: Permission denied
+Cannot stat file /proc/8289/fd/52: Permission denied
+Cannot stat file /proc/8289/fd/53: Permission denied
+Cannot stat file /proc/8289/fd/54: Permission denied
+Cannot stat file /proc/8289/fd/55: Permission denied
+Cannot stat file /proc/8289/fd/56: Permission denied
+Cannot stat file /proc/8289/fd/57: Permission denied
+Cannot stat file /proc/8289/fd/58: Permission denied
+Cannot stat file /proc/8289/fd/59: Permission denied
+Cannot stat file /proc/8289/fd/60: Permission denied
+Cannot stat file /proc/8289/fd/61: Permission denied
+Cannot stat file /proc/8289/fd/62: Permission denied
+Cannot stat file /proc/8289/fd/63: Permission denied
+Cannot stat file /proc/8289/fd/64: Permission denied
+Cannot stat file /proc/8289/fd/65: Permission denied
+Cannot stat file /proc/8289/fd/66: Permission denied
+Cannot stat file /proc/8289/fd/67: Permission denied
+Cannot stat file /proc/8289/fd/68: Permission denied
+Cannot stat file /proc/8289/fd/69: Permission denied
+Cannot stat file /proc/8289/fd/70: Permission denied
+Cannot stat file /proc/8289/fd/71: Permission denied
+Cannot stat file /proc/8289/fd/72: Permission denied
+Cannot stat file /proc/8289/fd/73: Permission denied
+Cannot stat file /proc/8289/fd/74: Permission denied
+Cannot stat file /proc/8289/fd/75: Permission denied
+Cannot stat file /proc/8289/fd/76: Permission denied
+Cannot stat file /proc/8289/fd/77: Permission denied
+Cannot stat file /proc/8289/fd/78: Permission denied
+Cannot stat file /proc/8289/fd/79: Permission denied
+Cannot stat file /proc/8289/fd/80: Permission denied
+Cannot stat file /proc/8289/fd/81: Permission denied
+Cannot stat file /proc/8289/fd/82: Permission denied
+Cannot stat file /proc/8289/fd/83: Permission denied
+Cannot stat file /proc/8289/fd/84: Permission denied
+Cannot stat file /proc/8289/fd/85: Permission denied
+Cannot stat file /proc/8289/fd/86: Permission denied
+Cannot stat file /proc/8289/fd/87: Permission denied
+Cannot stat file /proc/8289/fd/88: Permission denied
+Cannot stat file /proc/8289/fd/89: Permission denied
+Cannot stat file /proc/8289/fd/90: Permission denied
+Cannot stat file /proc/8289/fd/91: Permission denied
+Cannot stat file /proc/8289/fd/92: Permission denied
+Cannot stat file /proc/8289/fd/93: Permission denied
+Cannot stat file /proc/8289/fd/94: Permission denied
+Cannot stat file /proc/8289/fd/95: Permission denied
+Cannot stat file /proc/8289/fd/96: Permission denied
+Cannot stat file /proc/8289/fd/97: Permission denied
+Cannot stat file /proc/8289/fd/98: Permission denied
+Cannot stat file /proc/8289/fd/99: Permission denied
+Cannot stat file /proc/8289/fd/100: Permission denied
+Cannot stat file /proc/8289/fd/101: Permission denied
+Cannot stat file /proc/8289/fd/102: Permission denied
+Cannot stat file /proc/8289/fd/103: Permission denied
+Cannot stat file /proc/8289/fd/104: Permission denied
+Cannot stat file /proc/8289/fd/105: Permission denied
+Cannot stat file /proc/8289/fd/106: Permission denied
+Cannot stat file /proc/8289/fd/107: Permission denied
+Cannot stat file /proc/8289/fd/108: Permission denied
+Cannot stat file /proc/8289/fd/109: Permission denied
+Cannot stat file /proc/8289/fd/110: Permission denied
+Cannot stat file /proc/8289/fd/111: Permission denied
+Cannot stat file /proc/8289/fd/112: Permission denied
+Cannot stat file /proc/8289/fd/113: Permission denied
+Cannot stat file /proc/8289/fd/114: Permission denied
+Cannot stat file /proc/8289/fd/115: Permission denied
+Cannot stat file /proc/8289/fd/116: Permission denied
+Cannot stat file /proc/8289/fd/117: Permission denied
+Cannot stat file /proc/8289/fd/118: Permission denied
+Cannot stat file /proc/8289/fd/119: Permission denied
+Cannot stat file /proc/8289/fd/120: Permission denied
+Cannot stat file /proc/8289/fd/121: Permission denied
+Cannot stat file /proc/8289/fd/122: Permission denied
+Cannot stat file /proc/8289/fd/123: Permission denied
+Cannot stat file /proc/8289/fd/124: Permission denied
+Cannot stat file /proc/8289/fd/125: Permission denied
+Cannot stat file /proc/8289/fd/126: Permission denied
+Cannot stat file /proc/8289/fd/127: Permission denied
+Cannot stat file /proc/8289/fd/128: Permission denied
+Cannot stat file /proc/8289/fd/129: Permission denied
+Cannot stat file /proc/8289/fd/130: Permission denied
+Cannot stat file /proc/8289/fd/131: Permission denied
+Cannot stat file /proc/8289/fd/132: Permission denied
+Cannot stat file /proc/8289/fd/133: Permission denied
+Cannot stat file /proc/8289/fd/135: Permission denied
+Cannot stat file /proc/8289/fd/136: Permission denied
+Cannot stat file /proc/8289/fd/137: Permission denied
+Cannot stat file /proc/8289/fd/138: Permission denied
+Cannot stat file /proc/8289/fd/141: Permission denied
+Cannot stat file /proc/8289/fd/142: Permission denied
+Cannot stat file /proc/8289/fd/143: Permission denied
+Cannot stat file /proc/8289/fd/144: Permission denied
+Cannot stat file /proc/8289/fd/146: Permission denied
+Cannot stat file /proc/8289/fd/147: Permission denied
+Cannot stat file /proc/8289/fd/148: Permission denied
+Cannot stat file /proc/8289/fd/149: Permission denied
+Cannot stat file /proc/8289/fd/150: Permission denied
+Cannot stat file /proc/8289/fd/151: Permission denied
+Cannot stat file /proc/8289/fd/152: Permission denied
+Cannot stat file /proc/8289/fd/153: Permission denied
+Cannot stat file /proc/8289/fd/154: Permission denied
+Cannot stat file /proc/8289/fd/157: Permission denied
+8080/tcp:             8664
+Killed
+8080/tcp:             9114
+Killed
+8080/tcp:             9517
+Killed
+8080/tcp:            10042
+Killed
+8080/tcp:            10476
+Killed
+8080/tcp:            10924
+Killed
+8080/tcp:            11284
+Killed
+8080/tcp:            11537
+Killed
+8080/tcp:            11884
+Killed
+8080/tcp:            12400
+Killed
+8080/tcp:            12758
+Killed
+Your browser has been opened to visit:
+
+    https://accounts.google.com/o/oauth2/auth?client_id=402438830439-qgf0s5rkl6r37h7ov6qkous93qv0905m.apps.googleusercontent.com&redirect_uri=http%3A%2F%2Flocalhost%3A8080%2F&scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fdrive&access_type=offline&response_type=code
+
+Authentication successful.
+Capturing image
+Camera file path: //capt0000.jpg
+Copying image to /home/pi/Documents/raspberrypi/timelapse/test.jpg
+Your browser has been opened to visit:
+
+    https://accounts.google.com/o/oauth2/auth?client_id=402438830439-qgf0s5rkl6r37h7ov6qkous93qv0905m.apps.googleusercontent.com&redirect_uri=http%3A%2F%2Flocalhost%3A8080%2F&scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fdrive&access_type=offline&response_type=code
+
+Authentication successful.

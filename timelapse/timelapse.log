@@ -907,3 +907,13 @@
 2020-03-31 06:50:01 CRITICAL - No sunlight, no picture
 2020-03-31 07:00:01 CRITICAL - No sunlight, no picture
 2020-03-31 07:10:02 CRITICAL - No sunlight, no picture
+2020-04-02 19:07:49 ERROR - Can't authenticate Google Drive
+2020-04-02 21:00:58 CRITICAL - Image uploaded to Google Drive
+2020-04-02 23:11:48 CRITICAL - Image uploaded to Google Drive
+2020-04-07 15:32:49 ERROR - Can't take picture
+2020-04-07 15:39:51 ERROR - Can't take picture
+2020-04-07 15:40:35 ERROR - Can't take picture
+2020-04-07 15:44:18 ERROR - Can't take picture
+2020-04-07 15:45:41 ERROR - Can't take picture
+2020-04-07 15:50:01 CRITICAL - Image uploaded to Google Drive
+2020-04-07 16:01:26 CRITICAL - Image uploaded to Google Drive

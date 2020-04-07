@@ -1,1 +1,1 @@
-*/10 * * * * sh /home/pi/Documenten/raspberrypi/timelapse/cronjob.sh >> /home/pi/Documenten/raspberrypi/timelapse/cronlog.txt 2>&1
+*/10 * * * * sh /home/pi/Documents/raspberrypi/timelapse/cronjob.sh >> /home/pi/Documents/raspberrypi/timelapse/cronlog.txt 2>&1

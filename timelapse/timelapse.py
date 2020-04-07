@@ -7,7 +7,7 @@ from sys import exit
 import logging
 import os
 
-os.chdir("/home/pi/Documenten/raspberrypi/timelapse")
+os.chdir("/home/pi/Documents/raspberrypi/timelapse")
 
 logging.basicConfig(
     filename='timelapse.log',
@@ -41,16 +41,20 @@ if current_time < sunrise or current_time > sunset:
     exit(0)
 
 # 2) Take picture
-from picamera import PiCamera
+import gphoto2 as gp
 from time import sleep
 
 try:
-    camera = PiCamera()
-    camera.resolution = (1024,768)
-    camera.start_preview()
-    sleep(2)
-    camera.capture('test.jpg')
-    camera.close()
+    camera = gp.Camera()
+    camera.init()
+    print('Capturing image')
+    file_path = camera.capture(gp.GP_CAPTURE_IMAGE)
+    print('Camera file path: {0}/{1}'.format(file_path.folder, file_path.name))
+    target = '/home/pi/Documents/raspberrypi/timelapse/test.jpg'
+    print('Copying image to', target)
+    camera_file = camera.file_get(file_path.folder, file_path.name, gp.GP_FILE_TYPE_NORMAL)
+    camera_file.save(target)
+    camera.exit()
     # logging.critical("Picture taken")
 except:
     logging.error("Can't take picture")
